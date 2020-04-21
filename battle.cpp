@@ -6,6 +6,7 @@
 
 #include "battle_energy.hpp"
 
+//it is a test
 
 int	__stdcall frame_bgn(int frame_index, int millisecond)
 {
